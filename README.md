@@ -48,7 +48,7 @@ The chart tells that the higher the production budget the higher the returns bot
 ![alt text](images/roi.png)
 Musical films have the highest return on investment (991.36) followed by horror (712.20) and Mystery (584.23).
 
-For Tableau highlights and visualization of the analysis, refer to this [Movie Analysis Workbook](https://public.tableau.com/views/MovieAnalysisworkbook_17221011976360/MovieAnalysisDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+For Tableau highlights and visualization of the analysis, refer to this [Film Analysis Workbook](https://public.tableau.com/app/profile/gloria.ngure/viz/FilmAnalysisWorkbook2024/FilmAnalysisDashboard?publish=yes).
 
 ## Conclusion
 ### Summary of Conclusions
